@@ -36,56 +36,56 @@ The project explores how Large Language Models (LLMs) can move beyond traditiona
 LLM_Agent_Challenge/
 │
 recommendation_agent/
-├── helpers/
-│   ├── __pycache__/
-│   ├── config.py
-│   ├── generator.py
-│   ├── json_utils.py
-│   ├── memory.py
-│   ├── planner.py
-│   ├── reranker.py
-│   └── retrieval.py
-│
-├── venv/
-├── .env
-├── app.py
-├── main.ipynb
-└── requirements.txt
-│
+  ├── helpers/
+  │   ├── __pycache__/
+  │   ├── config.py
+  │   ├── generator.py
+  │   ├── json_utils.py
+  │   ├── memory.py
+  │   ├── planner.py
+  │   ├── reranker.py
+  │   └── retrieval.py
+  │
+  ├── venv/
+  ├── .env
+  ├── app.py
+  ├── main.ipynb
+  └── requirements.txt
+  │
 usermodeling_agent/
-├── Evaluation/
-│   └── results.ipynb
-│
-├── data/
-│   ├── processed/
-│   └── item_fetcher.py
-│
-├── datasets/
-│   └── analysis.csv
-│
-├── helpers/
-│   ├── __pycache__/
-│   ├── config.py
-│   ├── data_loader.py
-│   ├── generator.py
-│   ├── parser.py
-│   ├── prompt_builder.py
-│   └── user_utils.py
-│
-├── models/
-│   ├── __pycache__/
-│   ├── feature_engineering.py
-│   └── user_profiles.py
-│
-├── prediction/
-│   ├── __pycache__/
-│   └── llm_simulator.py
-│
-├── venv/
-├── .env
-├── app.py
-├── main.ipynb
-└── requirements.txt
+  ├── Evaluation/
+  │   └── results.ipynb
+  │
+  ├── data/
+  │   ├── processed/
+  │   └── item_fetcher.py
+  │
+  ├── datasets/
+  │   └── analysis.csv
+  │
+  ├── helpers/
+  │   ├── __pycache__/
+  │   ├── config.py
+  │   ├── data_loader.py
+  │   ├── generator.py
+  │   ├── parser.py
+  │   ├── prompt_builder.py
+  │   └── user_utils.py
+  │
+  ├── models/
+  │   ├── __pycache__/
+  │   ├── feature_engineering.py
+  │   └── user_profiles.py
+  │
+  ├── prediction/
+  │   ├── __pycache__/
+  │   └── llm_simulator.py
+  │
+  ├── venv/
+  ├── .env
+  ├── app.py
+  ├── main.ipynb
+  └── requirements.txt
 │
 └── README.md
 ```
